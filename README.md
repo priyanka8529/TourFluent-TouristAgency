@@ -142,11 +142,6 @@ To do:
 - This project was inspired by https://www.hyderabadtourism.travel/
 
 
-
-## Contact
-Ashoka Metropolitian, 6-3-2 Road No.1, Street 3, Banjara Hills,Hyderabad.
-+919876543210 | +919632374290
-
 ## Licence
 This project is free to use and does not contains any license.
 
