@@ -134,13 +134,6 @@ To do:
 - Chat bot 
 - Booking hotels through our website
 
-Run Locally
----
-
-- Run this command `git clone https://github.com/TourFluent/Developers.git`
-- You are now in the dev environment and you can play around
-
-
 
 
 
